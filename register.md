@@ -4,10 +4,10 @@
 
 ### Custom
 - [Short Form](#user-address)
-- [Logn Form](#billing-address)
+- [Long Form](#billing-address)
 - [Social Media](#shipping-address)
 
-### Shor Form
+### Short Form
 
 Required filed for register
 
