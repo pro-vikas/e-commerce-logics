@@ -23,7 +23,6 @@ Required filed for register
 
         a. Name ( also First name and Last name ):
             1. Alphabhets only ( Valid name ) 
-            2. Check already address submitted by user or not if yes then update
         
         Coming soon... 
   
