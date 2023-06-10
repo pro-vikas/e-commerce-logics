@@ -11,5 +11,5 @@ All logics and steps will be cover in this repository
 - [Product](product.md)
 - [Address](address.md)
 - [Order](order.md)
-- [Purchase Order](purchase-order.md)
+- [Purchase Item](purchase-item.md)
 
