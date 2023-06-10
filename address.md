@@ -34,6 +34,6 @@ Where user currenty stays
             1. Alphabhets only ( Valid name ) 
             2. Check already address submitted by user or not if yes then update
         
-        Comming soon... 
+        Coming soon... 
   
 ```

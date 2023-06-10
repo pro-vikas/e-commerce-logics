@@ -45,4 +45,4 @@ Basic login type `login with email and password`
                 2. Password is matching
 ```
 
-### Comming Soon
+### Coming Soon
